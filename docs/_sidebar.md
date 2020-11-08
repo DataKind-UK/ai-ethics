@@ -46,7 +46,7 @@
   - [Summary](guidelines/summary.md)
   - [Top 3](guidelines/top.md)
   - [Pros and Cons](guidelines/proscons.md)
-  - [Tools](guidelines/tools.md)
+  - [Tools](guidelines/tools-all.md)
     - [DEON Ethics Checklist](guidelines/deon.md)
     - [EU Ethics Guidelines](guidelines/eu.md)
     - [A Guide to Writing the NeurIPS Impact Statement](guidelines/neurips.md)

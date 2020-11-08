@@ -80,4 +80,5 @@ _E.g. difficult to integrate or customize_
 
 ### Case study demo with screenshots
 
-_Add in screenshots with descriptions on data set used!_
+Examples of some of the questions that are included in the checklist:
+![Examples of some of the questions that are included in the checklist](../_media/catapult-ml-ethics.png)

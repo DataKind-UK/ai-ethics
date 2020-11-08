@@ -83,3 +83,4 @@ E.g. difficult to integrate or customize
 ### Case study demo with screenshots
 
 Examples of some of the questions that are included by default in the checklist:
+![Examples of some of the questions that are included by default in the checklist](../_media/image30.png)

@@ -82,6 +82,6 @@ _E.g. difficult to integrate or customize_
 
 ### Case study demo with screenshots
 
-<p id="gdcalert33" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to _media/image33.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert34">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
+The 'Impact Stack':
 
-![alt_text](_media/image33.png "image_tooltip")
+![The Impact Stack](../_media/image33.png)

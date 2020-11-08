@@ -82,6 +82,7 @@ _E.g. difficult to integrate or customize_
 
 - “surveillance” definition / threshold too low - might include things which aren’t what we intuitively believe.
 
-<p id="gdcalert34" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to _media/image34.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert35">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
+### Case study demo with screenshots
 
-![alt_text](_media/image34.png "image_tooltip")
+Examples of some of the questions that are included in the checklist:
+![Examples of some of the questions that are included in the checklist](../_media/image1.png)
