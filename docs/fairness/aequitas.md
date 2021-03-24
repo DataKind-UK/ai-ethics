@@ -71,16 +71,10 @@ Quick and easy assessment of fairness in dataset or model predictions. Can quick
 
 ## Case study demo with screenshots
 
-IMAGE NEEDED
+![alt_text](../_media/image12.png "image_tooltip")
 
-![alt_text](_media/image12.png "image_tooltip")
+![alt_text](../_media/image13.png "image_tooltip")
 
-IMAGE NEEDED
-
-![alt_text](_media/image13.png "image_tooltip")
-
-IMAGE NEEDED
-
-![alt_text](_media/image14.png "image_tooltip")
+![alt_text](../_media/image14.png "image_tooltip")
 
 ##

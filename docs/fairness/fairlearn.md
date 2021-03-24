@@ -57,8 +57,6 @@ Add in screenshots with descriptions on the data set used!
 
 IMAGE NEEDED
 
-![alt_text](_media/image17.png "image_tooltip")
+![alt_text](../_media/image17.png "image_tooltip")
 
-IMAGE NEEDED
-
-![alt_text](_media/image18.png "image_tooltip")
+![alt_text](../_media/image18.png "image_tooltip")

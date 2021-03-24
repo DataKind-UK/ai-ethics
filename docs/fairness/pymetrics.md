@@ -79,10 +79,6 @@ Limited to only one form of fairness definition
 
 - The example shows how easy it is to install, import and use the package
 
-IMAGE NEEDED
+![alt_text](../_media/image15.png "image_tooltip")
 
-![alt_text](_media/image15.png "image_tooltip")
-
-IMAGE NEEDED
-
-![alt_text](_media/image16.png "image_tooltip")
+![alt_text](../_media/image16.png "image_tooltip")

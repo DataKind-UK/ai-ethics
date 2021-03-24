@@ -84,10 +84,6 @@ Perhaps a steep learning curve in terms of integrating into an existing model bu
 
 **Case study demo with screenshots**
 
-IMAGE NEEDED
+![alt_text](../_media/image10.png "image_tooltip")
 
-![alt_text](_media/image10.png "image_tooltip")
-
-IMAGE NEEDED
-
-![alt_text](_media/image11.png "image_tooltip")
+![alt_text](../_media/image11.png "image_tooltip")

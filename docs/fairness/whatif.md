@@ -32,31 +32,23 @@ Visualize feature importance for each model. The partial dependence plot (short 
 
 ![alt_text](../_media/google-whatif-distance.png)
 
-<p id="gdcalert5" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to _media/image5.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert6">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-![alt_text](_media/image5.png "image_tooltip")
+![alt_text](../_media/image5.png "image_tooltip")
 
 Explore data distributions: can visually identify any skews in distributions, e.g. more men than women
 
-IMAGE NEEDED
-
-![alt_text](_media/image6.png "image_tooltip")
+![alt_text](../_media/image6.png "image_tooltip")
 
 IMAGE NEEDED
 
-![alt_text](_media/image7.png "image_tooltip")
+![alt_text](../_media/image7.png "image_tooltip")
 
 -
 
 Compare model performance (confusion matrix, scatterplot, histogram). Experiment using confusion matrices and ROC curves, apply various fairness metrics and thresholds
 
-IMAGE NEEDED
+![alt_text](../_media/image8.png "image_tooltip")
 
-![alt_text](_media/image8.png "image_tooltip")
-
-IMAGE NEEDED
-
-![alt_text](_media/image9.png "image_tooltip")
+![alt_text](../_media/image9.png "image_tooltip")
 
 **Best for (Pros): **
 

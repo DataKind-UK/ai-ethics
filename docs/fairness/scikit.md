@@ -51,15 +51,15 @@ This tool is fairly basic, but seems to do what it does well. This tool is best 
 
 Pros:
 
-    * Can integrate fairly seamlessly into an existing logistic regression pipeline
+  * Can integrate fairly seamlessly into an existing logistic regression pipeline
 
-    * Built on top of sklearn
+  * Built on top of sklearn
 
-    * Tackles pre-processing, model building and post-modelling evaluation and correction stages of pipeline
+  * Tackles pre-processing, model building and post-modelling evaluation and correction stages of pipeline
 
-    * Simple Pip install
+  * Simple Pip install
 
-1. **Limitations, especially any technical issues**
+**Limitations, especially any technical issues**
 
 - Fairness optimisation technique is limited to training Logistic Regression Models
 
