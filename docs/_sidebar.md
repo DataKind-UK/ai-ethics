@@ -24,7 +24,7 @@
   - [Release Dates](explanation/release-dates.md)
   - [Scorecard](explanation/scorecard.md)
   - [Pros and Cons](explanation/proscons.md)
-  - [Tools](explanation/tools.md)
+  - Tools
     - [Ethical ML](explanation/ethicalml.md)
     - [Google](explanation/google.md)
     - [IBM OpenScae](explanation/ibm-openscale.md)
@@ -35,7 +35,7 @@
 
   - [Top](nlp/top.md)
   - [Pros and Cons](nlp/proscons.md)
-  - [Tools](nlp/tools.md)
+  - Tools
     - [Debias](nlp/debias.md)
     - [Allen](nlp/allen.md)
     - [Ran](nlp/ran.md)
@@ -46,7 +46,7 @@
   - [Summary](guidelines/summary.md)
   - [Top 3](guidelines/top.md)
   - [Pros and Cons](guidelines/proscons.md)
-  - [Tools](guidelines/tools.md)
+  - Tools
     - [DEON Ethics Checklist](guidelines/deon.md)
     - [EU Ethics Guidelines](guidelines/eu.md)
     - [A Guide to Writing the NeurIPS Impact Statement](guidelines/neurips.md)
