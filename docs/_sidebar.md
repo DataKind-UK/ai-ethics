@@ -27,8 +27,8 @@
   - [Tools](explanation/tools.md)
     - [Ethical ML](explanation/ethicalml.md)
     - [Google](explanation/google.md)
-    - [IBM OpenScae](explanation/ibm-openscale.md)
-    - [Seldion](explanation/seldion.md)
+    - [IBM OpenScale](explanation/ibm-openscale.md)
+    - [Seldon.io Alibi](explanation/seldion.md)
     - [MLI](explanation/mli.md)
 
 - NLP

@@ -1,4 +1,4 @@
-# [Seldion.io Alibi]
+# [Seldon.io Alibi]
 
 **Description of the tool**
 
@@ -22,22 +22,18 @@ Supports a large number of approaches, different data types
 
 e.g . show most important features, counterfactuals, explain the reason why a model gave a given label.
 
-IMAGE NEEDED
-
-![alt_text](_media/image25.png "image_tooltip")
+![alt_text](../_media/image25.png "image_tooltip")
 
 The tool is designed to work well with libraries with an API similar to scikit-learn (and its own API is close to that standard, see image below).
 
-IMAGE NEEDED
+![alt_text](../_media/image26.png "image_tooltip")
 
-![alt_text](_media/image26.png "image_tooltip")
-
-**Best for: **
+**Best for:**
 
 All purpose framework for handling explanations, and model monitoring. It works well with both unstructured data (NLP, computer vision) and tabular data; it covers different tasks (both regression and classification) and contains different state-of-the-art algorithms.
 
 The documentation is very comprehensive, including code for many many practical examples:
 
-    *   different approaches
-    *   different tasks
-    *   in different contexts (different datasets)
+  *   different approaches
+  *   different tasks
+  *   in different contexts (different datasets)

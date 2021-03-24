@@ -45,7 +45,7 @@ This particular repository is an example of h2o’s OS offering, that focuses on
 
 - Decision Trees, Lime, Loco, XGBoost, PDP Ice, Sensitivity Analysis
 
-**Best for: **
+**Best for:**
 
 **What should practitioners use this tool for? **
 
@@ -79,14 +79,8 @@ Image 2. Shows Jupyter notebook for Partial Dependency and ICE plot
 
 Image 3. Shows h2o site and mission statement.
 
-IMAGE NEEDED
+![alt_text](../_media/image22.png "image_tooltip")
 
-![alt_text](_media/image22.png "image_tooltip")
+![alt_text](../_media/image23.png "image_tooltip")
 
-IMAGE NEEDED
-
-![alt_text](_media/image23.png "image_tooltip")
-
-IMAGE NEEDED
-
-![alt_text](_media/image24.png "image_tooltip")
+![alt_text](../_media/image24.png "image_tooltip")

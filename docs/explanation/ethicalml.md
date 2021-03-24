@@ -90,9 +90,7 @@ It only works for structured (tabular) data.
 
 The examples in the documentation work only partially, see e.g.:
 
-<p id="gdcalert21" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to _media/image21.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert22">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-![alt_text](_media/image21.png "image_tooltip")
+![alt_text](../_media/image21.png "image_tooltip")
 
 ## [MLI Resources](https://github.com/h2oai/mli-resources)
 
@@ -181,14 +179,8 @@ Image 2. Shows Jupyter notebook for Partial Dependency and ICE plot
 
 Image 3. Shows h2o site and mission statement.
 
-<p id="gdcalert22" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to _media/image22.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert23">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
+![alt_text](../_media/image22.png "image_tooltip")
 
-![alt_text](_media/image22.png "image_tooltip")
+![alt_text](../_media/image23.png "image_tooltip")
 
-<p id="gdcalert23" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to _media/image23.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert24">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-![alt_text](_media/image23.png "image_tooltip")
-
-<p id="gdcalert24" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to _media/image24.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert25">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-![alt_text](_media/image24.png "image_tooltip")
+![alt_text](../_media/image24.png "image_tooltip")
