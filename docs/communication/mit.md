@@ -76,6 +76,4 @@ What are the challenges in using this tool?
 
 E.g. difficult to integrate or customize
 
-IMAGE NEEDED
-
-![alt_text](_media/image35.png "image_tooltip")
+![alt_text](../_media/image35.png "image_tooltip")
